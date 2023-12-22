@@ -1,0 +1,9 @@
+rpy2
+chromax
+numpy
+matplotlib
+keras
+tensorflow
+markupsafe==2.0.1
+ipykernel
+typing_extensions
